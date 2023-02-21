@@ -1,0 +1,46 @@
+html - for structure of the website or skeleton of website
+
+css - styling the website - background, color, border, curve, padding, size
+
+bootstrap(twitter) - btn btn-primary/btn-success/
+
+javascript - ui(user interface)
+
+jQuery - 
+
+ReactJs - javascript/js framework - facebook
+
+nodejs
+
+mysql(relational database), oracle, mongodb(nosql, object)
+
+mean stack - Mongodb expressjs angularjs nodejs
+
+mern stack - Mongodb expressjs reactjs nodejs
+
+(java, php, python, ruby on rails, aspx/.net)
+
+static, dynamic website, ecommerce
+
+JavaScript, Reactjs, html, css, bootstrap, 
+Nodejs, mysql
+
+PreRequisites - editor, browser for testing
+
+Javascript can only apply on, 
+    targeting/selection
+    events
+
+
+html - tags - <div>sdfasd</div>, <input>, <button>, <a>
+
+frontend/ui/html/javascript - browser
+
+Variable ""/number/boolean
+Array [] numbers - [1,20,3] ex: numbers[0]=1, numbers[1]=20, numbers[2]=3
+
+Objects {} numbersObj - {"a1":1, "a2":2, "a3":3} ex: numbersObj.a1=1
+
+
+in javascript, we will call `Html Tag` with name `Element`
+attribute - property
